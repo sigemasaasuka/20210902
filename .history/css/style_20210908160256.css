@@ -32,7 +32,7 @@
   left: 20%;
   font-size: 30px;
   color: #cf3076;
-  font-family: "Indie Flower", cursive;
+  font-family: 'Indie Flower', cursive;
 }
 
 .document {
@@ -40,16 +40,10 @@
   left: 10%;
   font-size: 35px;
   color: #30b6cf;
-  font-family: "Indie Flower", cursive;
+  font-family: 'Indie Flower', cursive;
 }
 
 .subtitle {
   margin: 0px 300px;
   color: gray;
-}
-
-.smlltitle {
-  color: #cf3076;
-  font-family: "Indie Flower", cursive;
-  margin-left: 300px;
 }
