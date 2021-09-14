@@ -4,7 +4,7 @@
 
 .parent {
   display: flex;
-  text-align: right;
+  justify-content: right;
   color: gray;
 }
 
@@ -82,24 +82,45 @@
 }
 
 .info {
-  border-width: 1px 0px 0px 0px;
+  border-width: 2px 0px 0px 0px;
   border-style: solid;
   border-color: gray;
   height: 10px;
   margin-left: 500px;
-  margin-top: 25px;
+  margin-top: 50px;
   font-size: 10px;
   color: gray;
 }
 
 .practice__btn {
   width: 100px;
-  padding: 3px 0;
+  padding: 2px 10px;
   color: #fff;
   border-radius: 30px;
   background-color: #b41078;
   text-align: center;
   margin: 0 auto 0;
-  display: block;
 }
 
+.info-txt {
+  border-width: 1px 0px 0px 0px;
+  border-style: solid;
+  height: 10px;
+  margin-left: 500px;
+  margin-top: 30px;
+  font-size: 10px;
+  color: gray;
+}
+
+.info-txtt {
+  border-width: 1px 0px 0px 0px;
+  border-bottom: solid 2px grey;
+  border-style: solid;
+  border-color: gray;
+  height: 10px;
+  border-bottom: gray;
+  margin-left: 500px;
+  margin-top: 30px;
+  font-size: 10px;
+  color: gray;
+}
