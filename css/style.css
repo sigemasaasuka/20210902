@@ -4,7 +4,8 @@
 
 .parent {
   display: flex;
-  justify-content: right;
+  justify-content: space-between;
+  width: 5px;
   color: gray;
 }
 
@@ -91,10 +92,10 @@
 }
 
 .info {
-  border-width: 0 0　1px 0;
+  border-width: 0 0 1px 0;
   border-style: solid;
   border-color: rgb(173, 171, 171);
-  margin-top: 30px;
+  margin-top: 20px;
   font-size: 10px;
   color: gray;
 }
