@@ -116,13 +116,38 @@
   margin: 0 auto 0;
 }
 
+.colored {
+  background-color: rgb(224, 219, 219);
+  margin-top: 30px;
+}
 .smlltitle-2 {
   color: #b41078;
   font-family: "Indie Flower", cursive;
-  margin-left: 60%;
+  margin-left: 45%;
 }
 
 .list-2 {
-  margin-top: 10px;
   color: gray;
+  margin-left: 40%;
+  margin-top: 10px;
+}
+
+.relate {
+  color: gray;
+  font-size: 15px;
+  margin-left: 55%;
+  margin-top: 30px;
+}
+
+.relate-txt {
+  color: gray;
+  font-size: 15px;
+  margin-left: 55%;
+  margin-top: 30px;
+}
+
+.picture__img {
+  margin-top: 20px;
+  width: 350px;
+  height: 250px;
 }
