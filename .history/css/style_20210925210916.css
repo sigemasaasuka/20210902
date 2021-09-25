@@ -170,7 +170,7 @@
   margin-top: 20px;
   margin-left: 100px;
   width: 300px;
-  height: 400px;
+  height: 300px;
 }
 
 .service__img {
@@ -190,10 +190,10 @@
 }
 
 .colored3 {
-  background-color: #db7093;
+  background-color: ;
   margin-top: 20px;
-  width: 400px;
-  height: 200px;
+  width: 300px;
+  height: 300px;
 }
 
 .service__img {
@@ -207,29 +207,6 @@
 }
 
 .explain2 {
-  margin-top: 20px;
-  color: #fff;
-  font-size: 15px;
-}
-
-.colored4 {
-  background-color: #d8bfd8;
-  margin-top: 20px;
-  width: 400px;
-  height: 200px;
-}
-
-.service__img {
-  width: 350px;
-  height: 250px;
-}
-
-.title3 {
-  margin-top: 20px;
-  color: #fff;
-}
-
-.explain3 {
   margin-top: 20px;
   color: #fff;
   font-size: 15px;
