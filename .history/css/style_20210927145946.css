@@ -156,31 +156,37 @@
 .smlltitle-3 {
   color: #b41078;
   font-family: "Indie Flower", cursive;
-  margin-left: 500px;
+  margin-left: 30%;
   margin-top: 30px;
 }
 
 .list-3 {
   color: gray;
-  margin-left: 500px;
+  margin-left: 30%;
   margin-top: 10px;
+}
+
+.contents {
+  display: flex;
 }
 .colored2 {
   background-color: #c71585;
   margin-top: 20px;
-  margin-left: 100px;
-  width: 300px;
-  height: 300px;
+  margin-left: 30%;
+  width: 350px;
+  height: 400px;
 }
 
 .service__img {
-  width: 350px;
-  height: 250px;
+  width: 300px;
+  height: 150px;
+  margin-top: 20px;
 }
 
 .title {
   margin-top: 20px;
   color: #fff;
+  margin-left: 110px;
 }
 
 .explain {
@@ -188,17 +194,23 @@
   color: #fff;
   font-size: 15px;
 }
-
-.colored2 {
-  background-color: #c71585;
+.contents2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: ;
+}
+.colored3 {
+  background-color: #db7093;
   margin-top: 20px;
-  margin-left: 100px;
-  width: 300px;
-  height: 300px;
+  width: 400px;
+  height: 200px;
+}
 
-.service__img {
-  width: 350px;
-  height: 250px;
+.service__img1 {
+  width: 180px;
+  height: 100px;
+  margin-top: 20px;
+  margin-left: auto;
 }
 
 .title2 {
@@ -209,5 +221,11 @@
 .explain2 {
   margin-top: 20px;
   color: #fff;
-  font-size: 15px;
+  font-size: 10px;
+}
+
+.colored4 {
+  background-color: #d8bfd8;
+  width: 400px;
+  height: 200px;
 }
