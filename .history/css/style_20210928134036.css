@@ -292,9 +292,9 @@
 }
 
 .card__cat {
-  border-top-left-radius: 20px;
   padding: 5px 10px;
   background: #c71585;
+
   display: inline-block;
   color: #fff;
   font-size: 14px;

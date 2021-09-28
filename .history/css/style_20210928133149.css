@@ -263,8 +263,6 @@
   margin-top: 20px;
   margin-left: 30px;
   width: 20%;
-  border-bottom-left-radius: 20px;
-  border-bottom-right-radius: 20px;
   box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.2);
 }
 
@@ -279,10 +277,9 @@
 }
 
 .card__content {
-  border-bottom-left-radius: 20px;
-  border-bottom-right-radius: 20px;
   background-color: #fff;
   padding: 15px 25px;
+  border-radius: 20px;
 }
 
 .card__ttl {
@@ -292,9 +289,9 @@
 }
 
 .card__cat {
-  border-top-left-radius: 20px;
   padding: 5px 10px;
   background: #c71585;
+  margin-top: 10px;
   display: inline-block;
   color: #fff;
   font-size: 14px;
