@@ -398,8 +398,11 @@ table th {
   font-size: 30px;
 }
 
-.card__cat3 {
+.photo4 {
   position: relative;
+}
+.card__cat3 {
+  position: absolute;
   top: 0;
   padding: 20px 60px;
   background: linear-gradient(90deg, #ff69b4, #c71585);
@@ -415,11 +418,11 @@ table th {
 .plactice__btn::before {
   content: "";
   position: absolute;
-  top: 50px;
+  top: 50%;
   left: 15px;
-  background: url(img/img/mailicon.svg) no-repeat;
+  background: url(img/img/maili.svg) no-repeat;
   background-size: cover;
-  width: 15px;
-  height: 10px;
+  width: 30px;
+  height: 30px;
   transform: translate(0, -50%);
 }

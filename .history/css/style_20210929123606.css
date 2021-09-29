@@ -415,11 +415,11 @@ table th {
 .plactice__btn::before {
   content: "";
   position: absolute;
-  top: 50px;
+  top: 50%;
   left: 15px;
   background: url(img/img/mailicon.svg) no-repeat;
   background-size: cover;
-  width: 15px;
-  height: 10px;
+  width: 30px;
+  height: 30px;
   transform: translate(0, -50%);
 }
