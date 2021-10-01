@@ -3,6 +3,7 @@
 }
 
 .parent {
+  line-height: 30px;
   display: flex;
   justify-content: space-between;
   color: gray;
@@ -14,6 +15,7 @@
 }
 
 .logo {
+  line-height: 20px;
   width: 100px;
 }
 .flex {
@@ -71,13 +73,13 @@
   font-weight: lighter;
 }
 
-.smlltitle {
+.smlltitle-news {
   color: #b41078;
   font-family: "Indie Flower", cursive;
   margin-left: 500px;
 }
 
-.list {
+.list-news {
   color: gray;
   margin-left: 500px;
   margin-top: 10px;
@@ -116,34 +118,40 @@
   margin: 0 auto 0;
 }
 
-.colored {
+.colored-about {
   height: 350px;
   background-color: rgb(224, 219, 219);
   margin-top: 30px;
 }
-.smlltitle-2 {
+.smlltitle-about {
   color: #b41078;
   font-family: "Indie Flower", cursive;
   margin-left: 45%;
 }
 
-.list-2 {
+.list-about {
   color: gray;
   margin-left: 40%;
   margin-top: 10px;
 }
 
+.flex-txt {
+  display: flex;
+  justify-content: space-around;
+  height: 30px;
+}
+
 .relate {
   color: gray;
   font-size: 15px;
-  margin-left: 55%;
+  margin-left: 2%;
   margin-top: 30px;
 }
 
 .relate-txt {
   color: gray;
   font-size: 15px;
-  margin-left: 55%;
+  margin-left: 2%;
   margin-top: 30px;
 }
 
@@ -153,14 +161,14 @@
   height: 250px;
 }
 
-.smlltitle-3 {
+.smlltitle-service {
   color: #b41078;
   font-family: "Indie Flower", cursive;
   margin-left: 30%;
   margin-top: 30px;
 }
 
-.list-3 {
+.list-service {
   color: gray;
   margin-left: 30%;
   margin-top: 10px;
@@ -169,7 +177,7 @@
 .contents {
   display: flex;
 }
-.colored2 {
+.colored-service {
   background-color: #c71585;
   margin-top: 20px;
   margin-left: 30%;
@@ -227,27 +235,27 @@
   font-size: 15px;
 }
 
-.colored4 {
+.colored {
   display: flex;
   background-color: #d8bfd8;
   width: 400px;
   height: 200px;
 }
 
-.colored5 {
+.colored-blog {
   height: 500px;
   background-color: rgb(224, 219, 219);
   margin-top: 30px;
 }
 
-.smlltitle-4 {
+.smlltitle-blog {
   color: #b41078;
   font-family: "Indie Flower", cursive;
   margin-left: 20%;
   margin-top: 30px;
 }
 
-.list-4 {
+.list-blog {
   color: gray;
   margin-left: 20%;
   margin-top: 10px;
@@ -321,11 +329,11 @@
   color: rgb(112, 110, 110);
 }
 
-.card__cat2 {
+.card__cat-blog {
   padding: 10px 30px;
   background: white;
   margin-top: 30px;
-  margin-left: 50%;
+  margin-left: 45%;
   border: 1px solid;
   display: inline-block;
   color: #c71585;
@@ -337,13 +345,13 @@
   margin-left: 20%;
 }
 
-.smlltitle-5 {
+.smlltitle-company {
   color: #b41078;
   font-family: "Indie Flower", cursive;
   margin-top: 30px;
 }
 
-.list-5 {
+.list-company {
   color: gray;
   margin-top: 10px;
   margin-bottom: 20px;
@@ -370,7 +378,7 @@ table th {
   position: relative;
 }
 
-.second2 {
+.second-employ {
   position: absolute;
   top: 50%;
   left: 20%;
@@ -378,7 +386,7 @@ table th {
   color: #fff;
 }
 
-.second3 {
+.second-interview {
   position: absolute;
   top: 50%;
   left: 70%;
@@ -386,14 +394,14 @@ table th {
   color: #fff;
 }
 
-.list-6 {
+.list-question {
   color: gray;
   margin-top: 50px;
-  margin-left: 40%;
+  margin-left: 36%;
 }
 .rod {
   color: #c71585;
-  margin-left: 50%;
+  margin-left: 47%;
   margin-top: 10px;
   font-size: 30px;
 }
@@ -404,7 +412,7 @@ table th {
   padding: 20px 60px;
   background: linear-gradient(90deg, #ff69b4, #c71585);
   margin-top: 10px;
-  margin-left: 45%;
+  margin-left: 40%;
   border: 1px solid;
   display: inline-block;
   color: #fff;
@@ -424,13 +432,13 @@ table th {
   transform: translate(0, -50%);
 }
 
-.colored6 {
+.colored-question {
   height: 30px;
   background-color: rgb(224, 219, 219);
   margin-top: 25px;
 }
 
-.second4 {
+.second-question {
   color: #000;
   font-size: 10px;
   margin-left: 45%;
