@@ -385,20 +385,10 @@ table th {
   color: #fff;
 }
 
-.recruit {
-  position: relative;
-  width: 50%;
-  height: 300px;
-  background: url(../img/img/recruit.png) no-repeat ;
-  margin-top: 30px;
-}
-
 .interview {
-  position: relative;
-  width: 50%;
-  height: 300px;
-  background: url(../img/img/interview.png) no-repeat ;
-  margin-top: 30px;
+  height: 350px;
+  background: url(.../);
+  margin-top: 30px;img/img/interview.png
 }
 
 .second-interview {

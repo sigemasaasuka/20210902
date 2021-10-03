@@ -385,19 +385,16 @@ table th {
   color: #fff;
 }
 
-.recruit {
+.recruit{
   position: relative;
-  width: 50%;
   height: 300px;
-  background: url(../img/img/recruit.png) no-repeat ;
+  background: url(../img/img/recruit.png)no-repeat;
   margin-top: 30px;
 }
 
 .interview {
-  position: relative;
-  width: 50%;
   height: 300px;
-  background: url(../img/img/interview.png) no-repeat ;
+  background: url(../img/img/interview.png)no-repeat;
   margin-top: 30px;
 }
 
