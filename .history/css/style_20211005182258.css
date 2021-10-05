@@ -403,10 +403,8 @@ table th {
 
 .interview {
   position: relative;
-  width: 100%;
-  height: 0;
-  padding-top: calc(300 / 683 * 100%); /* calc(画像高さ ÷ 画像横幅 × 100%) */
-  background: url(../img/img/interview.png) center center / cover no-repeat;
+  
+  background: url(../img/img/interview.png) no-repeat;
   margin-top: 30px;
 }
 
