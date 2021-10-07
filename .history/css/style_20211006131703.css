@@ -211,29 +211,31 @@
   display: flex;
   background-color: #db7093;
   margin-top: 20px;
-  width: 75%;
+  width: 100%;
   height: 200px;
 }
-.photo1 {
-  width: 25%;
+
+.photo2 {
+  width: 30%;
+  margin-top: 5%;
 }
 
 .service__img1 {
-  width: 85%;
+  width: 40%;
   margin-left: 20px;
-  margin-top: 30%;
+  margin-top: 10%;
 }
 
 .title2 {
   margin-top: 20px;
   color: #fff;
   margin-top: 50px;
-  margin-left: 40px;
+  margin-left: 20px;
 }
 
 .explain2 {
   margin-top: 20px;
-  margin-left: 40px;
+  margin-left: 20px;
   color: #fff;
   font-size: 15px;
 }
@@ -241,7 +243,7 @@
 .colored {
   display: flex;
   background-color: #d8bfd8;
-  width: 75%;
+  width: 100%;
   height: 200px;
 }
 
@@ -317,7 +319,7 @@
 
 .tag {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;s;
   font-size: 14px;
   text-align: right;
 }
@@ -325,11 +327,12 @@
 .card__tag {
   display: inline-block;
   color: rgb(112, 110, 110);
+  margin-left: 10px;
 }
 
 .card__date {
   display: inline-block;
-
+  margin-left: 20px;
   color: rgb(112, 110, 110);
 }
 
@@ -388,10 +391,6 @@ table th {
   left: 40%;
   font-size: 20px;
   color: #fff;
-}
-
-.photo2 {
-  width: 50%;
 }
 
 .recruit {

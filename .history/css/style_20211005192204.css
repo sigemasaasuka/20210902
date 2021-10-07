@@ -88,7 +88,7 @@
 }
 
 .local {
-  margin-left: 25%;
+ margin-left: 25%;
   border-color: rgb(170, 168, 168);
   border-top: solid 2px rgb(170, 168, 168);
   border-bottom: solid 2px rgb(170, 168, 168);
@@ -162,13 +162,13 @@
 .smlltitle-service {
   color: #b41078;
   font-family: "Indie Flower", cursive;
-  margin-left: 20%;
+  margin-left: 25%;
   margin-top: 30px;
 }
 
 .list-service {
   color: gray;
-  margin-left: 20%;
+  margin-left: 25%;
   margin-top: 10px;
 }
 
@@ -178,8 +178,8 @@
 .colored-service {
   background-color: #c71585;
   margin-top: 20px;
-  margin-left: 20%;
-  width: 30%;
+  margin-left: 25%;
+  width: 305;
   height: 400px;
 }
 
@@ -187,17 +187,16 @@
   width: 300px;
   height: 150px;
   margin-top: 20px;
-  margin-left: 10%;
 }
 
 .title {
   margin-top: 20px;
   color: #fff;
-  margin-left: 35%;
+  margin-left: 110px;
 }
 
 .explain {
-  margin-left: 10%;
+  margin-left: 15%;
   margin-top: 20px;
   color: #fff;
   font-size: 15px;
@@ -211,29 +210,26 @@
   display: flex;
   background-color: #db7093;
   margin-top: 20px;
-  width: 75%;
+  width: 400px;
   height: 200px;
-}
-.photo1 {
-  width: 25%;
 }
 
 .service__img1 {
-  width: 85%;
+  width: 340px;
+  height: 220px;
   margin-left: 20px;
-  margin-top: 30%;
 }
 
 .title2 {
   margin-top: 20px;
   color: #fff;
   margin-top: 50px;
-  margin-left: 40px;
+  margin-left: 20px;
 }
 
 .explain2 {
   margin-top: 20px;
-  margin-left: 40px;
+  margin-left: 20px;
   color: #fff;
   font-size: 15px;
 }
@@ -241,7 +237,7 @@
 .colored {
   display: flex;
   background-color: #d8bfd8;
-  width: 75%;
+  width: 400px;
   height: 200px;
 }
 
@@ -316,8 +312,6 @@
 }
 
 .tag {
-  display: flex;
-  justify-content: space-between;
   font-size: 14px;
   text-align: right;
 }
@@ -325,11 +319,12 @@
 .card__tag {
   display: inline-block;
   color: rgb(112, 110, 110);
+  margin-left: 10px;
 }
 
 .card__date {
   display: inline-block;
-
+  margin-left: 20px;
   color: rgb(112, 110, 110);
 }
 
