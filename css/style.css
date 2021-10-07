@@ -77,22 +77,22 @@
 .smlltitle-news {
   color: #b41078;
   font-family: "Indie Flower", cursive;
-  margin-left: 25%;
+  margin-left: 30%;
 }
 
 .list-news {
   color: gray;
-  margin-left: 25%;
+  margin-left: 30%;
   margin-top: 10px;
   margin-bottom: 20px;
 }
 
 .local {
-  margin-left: 25%;
+  margin-left: 30%;
   border-color: rgb(170, 168, 168);
   border-top: solid 2px rgb(170, 168, 168);
   border-bottom: solid 2px rgb(170, 168, 168);
-  width: 70%;
+  width: 35%;
 }
 
 .info {
@@ -105,7 +105,6 @@
   padding-left: 0;
   font-size: 10px;
   color: gray;
-  width: 40%;
 }
 
 .practice__btn {
@@ -324,12 +323,15 @@
 
 .card__tag {
   display: inline-block;
+  font-size: 15%;
+  font-weight: bold;
   color: rgb(112, 110, 110);
 }
 
 .card__date {
   display: inline-block;
-
+  font-size: 15%;
+  font-weight: bold;
   color: rgb(112, 110, 110);
 }
 
